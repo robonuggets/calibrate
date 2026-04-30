@@ -9,13 +9,13 @@ description: In-session self-improvement. Reviews the current conversation for c
 
 ## What This Does
 
-Reviews the current conversation and suggests specific updates to skills, CLAUDE.md rules, memory, or workflows based on what just happened. Jay picks which suggestions to apply.
+Reviews the current conversation and suggests specific updates to skills, CLAUDE.md rules, memory, or workflows based on what just happened. You pick which suggestions to apply.
 
 ## When to Use
 
 - End of a work session
 - After a task with multiple corrections
-- When Jay says "calibrate", "what can you improve", "tune up", "update your skills"
+- When you say "calibrate", "what can you improve", "tune up", "update your skills"
 
 ## Process
 
